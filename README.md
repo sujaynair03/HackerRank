@@ -1,2 +1,3 @@
 # HackerRank
-Solutions to Hackerrank Problems
+
+Solutions to Hackerrank Problems by Sujay Nair
