@@ -1,0 +1,1 @@
+print (len(set([ raw_input().strip() for _ in range(int(raw_input().strip())) ])))

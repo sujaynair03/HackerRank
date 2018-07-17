@@ -1,1 +1,1 @@
-print (raw_input()).replace(" ", "-")
+print (raw_input()).replace(" ", "-") 
