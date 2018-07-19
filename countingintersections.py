@@ -9,3 +9,5 @@ def counter(n, b):
             count += 1
     return count
 print (counter(list_n, list_b))
+	
+	
